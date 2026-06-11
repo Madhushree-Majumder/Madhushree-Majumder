@@ -22,9 +22,9 @@ actionable insights — from automated reports to interactive dashboards.
 |--------|-------------|
 | [AuditLens](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging.git) |Power BI dashboard that flags high-risk GL journal entries — round numbers, weekend postings, after-hours entries, and duplicates — using CAATs audit logic](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging)|
 | [TrialPulse](https://github.com/Madhushree-Majumder/TrialPulse-Financial-Reconciliation-Dashboard.git) | Multi-entity, multi-currency Trial Balance reconciliation dashboard that flags mismatched GL accounts and quantifies variances across 3 entities in Power BI](https://github.com/Madhushree-Majumder/TrialPulse-Financial-Reconciliation-Dashboard) |
-| [FinancialReporting](https://github.com/Madhushree-Majumder/Financial-Reporting-and-Financial-Analysis-Using-Tableau.git) | Short description |
-| [DataBridge](https://github.com/Madhushree-Majumder/DataBridge-Multi-Source-Financial-ETL-Pipeline.git) | Short description |
-| [SpendLens](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard.git) | Short description |
+| [FinancialReporting](https://github.com/Madhushree-Majumder/Financial-Reporting-and-Financial-Analysis-Using-Tableau.git) | Tableau P&L analytics dashboard for TurtleCo covering FY2018–2020 — tracks gross profit, EBITDA, net profit margins, and marketing spend across regions](https://github.com/Madhushree-Majumder/Financial-Reporting-and-Financial-Analysis-Using-Tableau) |
+| [DataBridge](https://github.com/Madhushree-Majumder/DataBridge-Multi-Source-Financial-ETL-Pipeline.git) | Power BI ETL pipeline that merges GL exports from SAP, Oracle, and manual sources into one clean consolidated table with a 97.5% data quality score](https://github.com/Madhushree-Majumder/DataBridge-Multi-Source-Financial-ETL-Pipeline) |
+| [SpendLens](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard.git) | AP procurement dashboard that standardises vendor names, flags £4.56M in off-contract spend, and surfaces Pareto concentration insights across 1,000 transactions](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard) |
 ---
 
 ## 📊 GitHub Stats
