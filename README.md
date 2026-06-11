@@ -20,7 +20,7 @@ actionable insights — from automated reports to interactive dashboards.
 
 | Project | Description |
 |--------|-------------|
-| [AuditLens](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging.git) | Short description |
+| [AuditLens](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging.git) |Power BI dashboard that flags high-risk GL journal entries — round numbers, weekend postings, after-hours entries, and duplicates — using CAATs audit logic](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging)|
 | [SpendLens](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard.git) | Short description |
 | [TrialPulse](https://github.com/Madhushree-Majumder/TrialPulse-Financial-Reconciliation-Dashboard.git) | Short description |
 | [FinancialReporting](https://github.com/Madhushree-Majumder/Financial-Reporting-and-Financial-Analysis-Using-Tableau.git) | Short description |
