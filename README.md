@@ -21,11 +21,10 @@ actionable insights — from automated reports to interactive dashboards.
 | Project | Description |
 |--------|-------------|
 | [AuditLens](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging.git) |Power BI dashboard that flags high-risk GL journal entries — round numbers, weekend postings, after-hours entries, and duplicates — using CAATs audit logic](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging)|
-| [SpendLens](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard.git) | Short description |
-| [TrialPulse](https://github.com/Madhushree-Majumder/TrialPulse-Financial-Reconciliation-Dashboard.git) | Short description |
+| [TrialPulse](https://github.com/Madhushree-Majumder/TrialPulse-Financial-Reconciliation-Dashboard.git) | Multi-entity, multi-currency Trial Balance reconciliation dashboard that flags mismatched GL accounts and quantifies variances across 3 entities in Power BI](https://github.com/Madhushree-Majumder/TrialPulse-Financial-Reconciliation-Dashboard) |
 | [FinancialReporting](https://github.com/Madhushree-Majumder/Financial-Reporting-and-Financial-Analysis-Using-Tableau.git) | Short description |
 | [DataBridge](https://github.com/Madhushree-Majumder/DataBridge-Multi-Source-Financial-ETL-Pipeline.git) | Short description |
-
+| [SpendLens](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard.git) | Short description |
 ---
 
 ## 📊 GitHub Stats
