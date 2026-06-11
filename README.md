@@ -20,10 +20,11 @@ actionable insights — from automated reports to interactive dashboards.
 
 | Project | Description |
 |--------|-------------|
-| [Project 1](https://github.com/yourusername/repo1) | Short description |
-| [Project 2](https://github.com/yourusername/repo2) | Short description |
-| [Project 3](https://github.com/yourusername/repo3) | Short description |
-| [Project 4](https://github.com/yourusername/repo4) | Short description |
+| [AuditLens](https://github.com/Madhushree-Majumder/AuditLens-GL-Transaction-Testing-and-Anomaly-Flagging.git) | Short description |
+| [SpendLens](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard.git) | Short description |
+| [TrialPulse](https://github.com/Madhushree-Majumder/TrialPulse-Financial-Reconciliation-Dashboard.git) | Short description |
+| [FinancialReporting](https://github.com/Madhushree-Majumder/Financial-Reporting-and-Financial-Analysis-Using-Tableau.git) | Short description |
+| [DataBridge](https://github.com/Madhushree-Majumder/DataBridge-Multi-Source-Financial-ETL-Pipeline.git) | Short description |
 
 ---
 
