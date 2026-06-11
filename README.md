@@ -13,7 +13,18 @@ actionable insights — from automated reports to interactive dashboards.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+---
 
+🔎 *I apply these tools to real-world financial and audit analytics problems — each project below solves a specific pain point faced by finance and audit teams.*
+
+---
+## 🔍 What I Do
+
+- Design **audit analytics dashboards** that automate CAATs testing and flag high-risk GL entries
+- Build **financial reconciliation tools** that surface mismatches across multi-entity, multi-currency trial balances
+- Create **procurement spend dashboards** that standardise vendor data and track off-contract spend
+- Develop **ETL pipelines** that merge messy multi-source financial data into clean, analysis-ready tables
+  
 ---
 
 ## 📂 Featured Projects
