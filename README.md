@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Madhushree Majumder 👋
 
 🎯 **Financial & Audit Analytics | Business Intelligence | Data Visualization**
 
