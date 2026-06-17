@@ -39,12 +39,6 @@ actionable insights — from automated reports to interactive dashboards.
 | [SpendLens](https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard.git) | AP procurement dashboard that standardises vendor names, flags £4.56M in off-contract spend, and surfaces Pareto concentration insights across 1,000 transactions(https://github.com/Madhushree-Majumder/SpendMap-Procurement-Spend-Analytics-and-Vendor-Concentration-Dashboard) |
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhushree-data-analyst/)
